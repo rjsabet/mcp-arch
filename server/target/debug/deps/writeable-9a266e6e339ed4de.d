@@ -1,0 +1,12 @@
+/Users/razan/Desktop/mcp-arch/server/target/debug/deps/writeable-9a266e6e339ed4de.d: /Users/razan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/lib.rs /Users/razan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/cmp.rs /Users/razan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/impls.rs /Users/razan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/ops.rs /Users/razan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/parts_write_adapter.rs /Users/razan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/testing.rs /Users/razan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/to_string_or_borrow.rs /Users/razan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/try_writeable.rs
+
+/Users/razan/Desktop/mcp-arch/server/target/debug/deps/libwriteable-9a266e6e339ed4de.rmeta: /Users/razan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/lib.rs /Users/razan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/cmp.rs /Users/razan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/impls.rs /Users/razan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/ops.rs /Users/razan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/parts_write_adapter.rs /Users/razan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/testing.rs /Users/razan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/to_string_or_borrow.rs /Users/razan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/try_writeable.rs
+
+/Users/razan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/lib.rs:
+/Users/razan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/cmp.rs:
+/Users/razan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/impls.rs:
+/Users/razan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/ops.rs:
+/Users/razan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/parts_write_adapter.rs:
+/Users/razan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/testing.rs:
+/Users/razan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/to_string_or_borrow.rs:
+/Users/razan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/try_writeable.rs:
