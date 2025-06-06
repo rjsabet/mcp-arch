@@ -1,6 +1,6 @@
 # mcp-arch - MCP Project
 
-A complete MCP project with both client and server components, using SSE transport.
+An LLM agnostic MCP project with both client and server components, using SSE transport.
 
 ## Features
 
